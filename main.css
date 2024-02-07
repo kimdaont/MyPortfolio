@@ -64,8 +64,7 @@ header {
 
 /* logo */
 .navbar__logo img {
-  width: 36px;
- /* height: 37px;*/
+  width: 60px;
   object-fit: cover;
 }
 
@@ -222,6 +221,7 @@ header {
   line-height: 2em;
   margin-bottom: 1.5em;
   text-align: justify;
+  
 }
 
 .banner__btn {
